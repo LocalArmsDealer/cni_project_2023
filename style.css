@@ -1,1 +1,7 @@
-* {color:#6EFAF0}
+* {
+  color: #6EFAF0
+  font-family: Helvetica, sans-serif;
+}
+.tab {
+  margin-left: 40px;
+}
