@@ -1,12 +1,17 @@
 * {
-  background-color: #009cde;
+  background-color: #4abcff;
   font-family: Helvetica, sans-serif;
-  color: #70838b;
+  color: #772211;
+}
+
+a {
+  color: #000000;
 }
 
 h3 {
   font-weight: bold;
 }
+
 .tab {
   margin-left: 40px;
 }
