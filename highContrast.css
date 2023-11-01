@@ -1,1 +1,17 @@
+* {
+  background-color: #4abcff;
+  font-family: Helvetica, sans-serif;
+  color: #ff8d4a;
+}
 
+a {
+  color: #000000;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.tab {
+  margin-left: 40px;
+}
