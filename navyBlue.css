@@ -1,1 +1,17 @@
+* {
+  background-color: #000080;
+  font-family: Helvetica, sans-serif;
+  color:  #efefdf;
+}
 
+a {
+  color: #80c0a0;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.tab {
+  margin-left: 40px;
+}
