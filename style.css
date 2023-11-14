@@ -16,8 +16,12 @@ h3 {
   margin-left: 40px;
 }
 
-.citation{
+.citation {
   font-family: Times New Roman, sans-serif;
-  text-indent: 30px;
+  text-indent: 80px;
+  line-height: 1.6;
+}
+.citation:first-line {
+  font-family: Times New Roman, sans-serif;
   line-height: 1.6;
 }
